@@ -45,7 +45,7 @@ button:hover {
 .book {
   position: relative;
   width: 420px;
-  height: 585px;
+  height: 600px;
   perspective: 2000px;
   display: none;
 }
@@ -77,6 +77,7 @@ button:hover {
   transform: rotateY(180deg); /* ✅ Giúp chữ không bị ngược */
 
 }
+
 
 
 
